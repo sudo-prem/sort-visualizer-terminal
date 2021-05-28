@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #include <windows.h>
-#include "Merge.h"
+#include "merge.h"
 using namespace std;
 
 #define GREEN "\033[1m\033[32m"

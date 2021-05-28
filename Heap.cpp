@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include "Heap.h"
+#include "heap.h"
 #include <windows.h>
 using namespace std;
 
@@ -16,11 +16,13 @@ Heap::Heap()
     // Gets user data
     cout << MAGENTA << "Enter Number of Elements to Sort: " << RESET;
     cin >> this->size;
+    size++;
+    data.push_back(INT_MAX);
     cout << endl;
     int temp = 0;
-    for (int i = 0; i < this->size; ++i)
+    for (int i = 1; i < this->size; ++i)
     {
-        cout << MAGENTA << "Enter Element " << i + 1 << ": " << RESET;
+        cout << MAGENTA << "Enter Element " << i << ": " << RESET;
         cin >> temp;
         cout << endl;
         this->data.push_back(temp);
@@ -118,7 +120,7 @@ void Heap::Heapify()
     // Converted into a heap
     Plot(0, 0);
     Delay();
-    // Deleting and making the value go back
+    // Deleting and placing the value at the end
     int last = size - 1;
     while (last > 0)
     {
