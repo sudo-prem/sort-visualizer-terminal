@@ -7,7 +7,7 @@
 ### To Run
 
 <ul>
-    <li>Run it with Windows Powershell <br>(Reason being, a windows based header file has been used) </li>
+    <li>Run it with Windows Powershell <br>(A windows based header file has been used) </li>
 </ul>
 
 ```sh
