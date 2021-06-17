@@ -23,8 +23,3 @@
 ```
 
 <hr>
-
-### Contributors
-
-1.  [Premnaath V](https://github.com/pr3mn44th) - 2019115128
-2.  Nehanth Kasi Geetha - 2019115061
