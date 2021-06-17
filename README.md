@@ -7,8 +7,7 @@
 ### To Run
 
 <ul>
-    <li>Make sure all the files are in the same Directory</li>
-    <li>Make sure you run it with Windows Powershell <br>(Reason being, a windows based header file has been used) </li>
+    <li>Run it with Windows Powershell <br>(Reason being, a windows based header file has been used) </li>
 </ul>
 
 ```sh
