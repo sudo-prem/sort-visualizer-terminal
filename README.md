@@ -2,24 +2,14 @@
 
 ## Heap and Merge Sort Visualized in terminal
 
-<hr>
+- Run it with Windows Powershell, a windows based header file has been used
 
-### To Run
-
-<ul>
-    <li>Run it with Windows Powershell <br>(A windows based header file has been used) </li>
-</ul>
-
-```sh
+```
    g++ main.cpp heap.cpp merge.cpp
 ```
 
-<ul>
-    <li>Once we obtain the Executable file (a.exe)</li>
-</ul>
+- Once we obtain the executable file (a.exe)
 
 ```sh
    ./a
 ```
-
-<hr>
