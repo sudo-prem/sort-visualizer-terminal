@@ -14,6 +14,6 @@
    ./a
 ```
 
-## Screenshot
+## Preview
 
 ![Screenshot](./static/ss.png)
