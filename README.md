@@ -13,3 +13,7 @@
 ```sh
    ./a
 ```
+
+## Screenshot
+
+![Screenshot](./static/ss.png)
