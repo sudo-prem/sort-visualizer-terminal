@@ -1,6 +1,6 @@
 # Sort Visualizer
 
-## Heap and Merge Sort Visualized in terminal
+## Heap and Merge Sort visualized in terminal
 
 - Run it with Windows Powershell, a windows based header file has been used
 
